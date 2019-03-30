@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="weshare_ssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="weshare_ssm.war">
+      <element id="artifact" artifact-name="weshare_ssm:war exploded" />
+    </root>
+  </artifact>
+</component>
